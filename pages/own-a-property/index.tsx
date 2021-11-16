@@ -12,7 +12,7 @@ const OwnAProperty = () => {
         style={{ background: " #1C7947", color: "white" }}
       >
         <img
-          src="/img/closed.png"
+          src="/img/open.png"
           alt=""
           style={{ width: "60px", marginRight: "20px" }}
         />
