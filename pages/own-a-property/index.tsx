@@ -9,16 +9,15 @@ const OwnAProperty = () => {
       <Banner page="Own A Property" />
       <div
         className="p-3 px-5"
-        style={{ background: "#860e1e", color: "white" }}
+        style={{ background: " #1C7947", color: "white" }}
       >
         <img
           src="/img/closed.png"
           alt=""
           style={{ width: "60px", marginRight: "20px" }}
         />
-        Plot sales are now officially closed till further notice. However, you
-        can fill any of the forms below so that we can contact you whenever we
-        resume sales.
+        Plots sales are now officially open!! Kindly fill in the relevant subscription
+        form and get in touch with us to secure your plot(s)!
       </div>
 
       {/* Obaforex Academy */}
